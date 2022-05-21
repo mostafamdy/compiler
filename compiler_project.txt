@@ -1,0 +1,5 @@
+/$This is main function $/
+Worthless decrease(Iow num,Iow m){
+Iow 3num;
+Loopwhen(counter<num){
+reg3=reg3-1; } }
